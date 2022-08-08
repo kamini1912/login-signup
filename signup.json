@@ -1,0 +1,51 @@
+[
+  {
+    "name": "khusbu katyura",
+    "password": "Khushbu@123",
+    "dob": "10-89-7899",
+    "gender": "femle",
+    "gmail": "fgiojk"
+  },
+  {
+    "name": "kamini",
+    "password": "Kamini@123",
+    "dob": "10-8-1998",
+    "gender": "femle",
+    "gmail": "dftgyhj"
+  },
+  {
+    "name": "kajal",
+    "password": "Kajal@12",
+    "dob": "9-11-1994",
+    "gender": "femle",
+    "gmail": "sdfglkj;"
+  },
+  {
+    "name": "avi",
+    "password": "Avi@1223",
+    "dob": "3-6-1998",
+    "gender": "femle",
+    "gmail": "wertyuio"
+  },
+  {
+    "name": "meenu",
+    "password": "meenu@12",
+    "dob": "1/5/9987",
+    "gender": "femle",
+    "gmail": "wertyuio"
+  },
+  {
+    "name": "rocy",
+    "password": "rocy@123",
+    "dob": "1/6/2003",
+    "gender": "femle",
+    "gmail": "sdfghjkl"
+  },
+  {
+    "name": "divya",
+    "password": "divya@123",
+    "dob": "1234",
+    "gender": "female",
+    "gmail": "wertyuu"
+  }
+]
